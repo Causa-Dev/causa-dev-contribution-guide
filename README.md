@@ -66,7 +66,7 @@ Este guia vai te ajudar a encontrar o seu espaço com a gente. A Causa Dev é um
 - **Precisamos de:** Profissionais de marketing e/ou criação de conteúdo para ajudar a divulgar nossos projetos e necessidades.
 
 ### Links úteis:
-[Organization Causa Dev](link-aqui) <br/>
+[Organization Causa Dev](https://github.com/Causa-Dev) <br/>
 [Site Institucional Causa Dev](https://www.causadev.com.br) <br/>
 [LinkedIn Causa Dev](https://linkedin.com/company/causa-dev)
 
