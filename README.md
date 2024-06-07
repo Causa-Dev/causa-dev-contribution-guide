@@ -80,7 +80,7 @@ Encontrou uma oportunidade para você? Ótimo! Acesse o repositório do projeto 
 Se você não está familiarizado com o GitHub ou precisa de mais informações sobre como contribuir, entre em nosso canal no Discord e se apresente. Nossos organizadores estão prontos para te ajudar a começar!
 
 [Discord Causa Dev](https://discord.gg/MWUxpjK6) <br/>
-[Email de contato](contato@causadev.com.br)
+Email de contato: contato@causadev.com.br
 
 **Não encontrou um projeto onde possa ajudar no momento?**
 Não se preocupe! Sua presença aqui já mostra que você é alguém que faz a diferença. Nossos projetos estão sempre evoluindo e frequentemente surgem necessidades de habilidades diversas.
